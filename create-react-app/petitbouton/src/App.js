@@ -40,7 +40,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header" style={this.state.objStyle}>
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to may\'s work</h2>
+          <h2>Welcome to may/'s work</h2>
         </div>
         <p className="App-intro">
           this is me who is doing all this changes. the secret of codding....
